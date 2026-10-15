@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "title": "Amazing Grace",
+    "artist": "John Newton",
+    "author": "John Newton",
+    "language": "English",
+    "genreId": "hymns",
+    "lyrics": "Amazing grace! How sweet the sound\nThat saved a wretch like me!\nI once was lost, but now am found;\nWas blind, but now I see.\n\n'Twas grace that taught my heart to fear,\nAnd grace my fears relieved;\nHow precious did that grace appear\nThe hour I first believed.",
+    "isFavorite": false
+  },
+  {
+    "id": "2",
+    "title": "How Great is Our God",
+    "artist": "Chris Tomlin",
+    "author": "Chris Tomlin",
+    "language": "English",
+    "genreId": "praiseandworship",
+    "lyrics": "The splendor of the King, clothed in majesty\nLet all the Earth rejoice, all the Earth rejoice\nHe wraps himself in light, and darkness tries to hide\nAnd trembles at His voice, trembles at His voice\n\nHow great is our God, sing with me\nHow great is our God, and all will see\nHow great, how great is our God",
+    "isFavorite": false
+  },
+  {
+    "id": "3",
+    "title": "Oceans (Where Feet May Fail)",
+    "artist": "Hillsong United",
+    "author": "Hillsong United",
+    "language": "English",
+    "genreId": "contemporarychristian",
+    "lyrics": "You call me out upon the waters\nThe great unknown where feet may fail\nAnd there I find You in the mystery\nIn oceans deep, my faith will stand\n\nAnd I will call upon Your name\nAnd keep my eyes above the waves\nWhen oceans rise, my soul will rest in Your embrace\nFor I am Yours and You are mine",
+    "isFavorite": false
+  },
+  {
+    "id": "4",
+    "title": "Oh Happy Day",
+    "artist": "Edwin Hawkins",
+    "author": "Edwin Hawkins",
+    "language": "English",
+    "genreId": "gospel",
+    "lyrics": "Oh happy day (oh happy day)\nOh happy day (oh happy day)\nWhen Jesus washed (when Jesus washed)\nWhen Jesus washed (when Jesus washed)\nWhen Jesus washed (when Jesus washed)\nHe washed my sins away (oh happy day)\nOh happy day (oh happy day)",
+    "isFavorite": false
+  },
+  {
+    "id": "5",
+    "title": "I Can Only Imagine",
+    "artist": "MercyMe",
+    "author": "MercyMe",
+    "language": "English",
+    "genreId": "christianrock",
+    "lyrics": "I can only imagine what it will be like\nWhen I walk by your side\nI can only imagine what my eyes will see\nWhen your face is before me\nI can only imagine\n\nSurrounded by your glory\nWhat will my heart feel?\nWill I dance for you, Jesus?\nOr in awe of you be still?\nWill I stand in your presence?\nOr to my knees will I fall?\nWill I sing hallelujah?\nWill I be able to speak at all?\nI can only imagine",
+    "isFavorite": false
+  },
+  {
+    "id": "6",
+    "title": "Holy Spirit",
+    "artist": "Francesca Battistelli",
+    "author": "Francesca Battistelli",
+    "language": "English",
+    "genreId": "christianpop",
+    "lyrics": "There's nothing worth more, that will ever come close\nNo thing can compare, You're our living hope\nYour Presence, Lord\n\nI've tasted and seen of the sweetest of loves\nWhere my heart becomes free and my shame is undone\nIn Your Presence, Lord",
+    "isFavorite": false
+  },
+  {
+    "id": "7",
+    "title": "Blessings",
+    "artist": "Laura Story",
+    "author": "Laura Story",
+    "language": "English",
+    "genreId": "contemporarychristian",
+    "lyrics": "We pray for blessings, we pray for peace\nComfort for family, protection while we sleep\nWe pray for healing, for prosperity\nWe pray for Your mighty hand to ease our suffering\nAll the while, You hear each spoken need\nYet love is way too much to give us lesser things",
+    "isFavorite": false
+  },
+  {
+    "id": "8",
+    "title": "Different",
+    "artist": "Lecrae",
+    "author": "Lecrae",
+    "language": "English",
+    "genreId": "christianhiphop",
+    "lyrics": "I'm not the same anymore\nI think different, I think different\nMy walk's changed, I talk changed\nSo much different, so much different\nGod really changed me, rearranged me\nNow I'm different, now I'm different\nI'm not the same no more\nI think different, I think different",
+    "isFavorite": false
+  }
+]
